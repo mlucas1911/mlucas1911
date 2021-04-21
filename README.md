@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mike @mlucas1911
-- 👀 Alwyas looking for more info on Network Automation
+- 👀 Always looking for more info on Network Automation
 - 🌱 Python, PERL, Ansible
 - 💞️ I can collab on anything Network
 - 📫 mlucas@lucastechserv.com
